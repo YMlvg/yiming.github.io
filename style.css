@@ -1,0 +1,20 @@
+a {
+    color: black
+}
+
+/*
+a font to be use for subtitle 
+font-family: 'Rowdies', cursive; 
+*/
+
+.heading{
+    font-family: 'Rowdies', cursive;
+}
+
+.sub_title{
+    font_family: 'Rowdies', cursive;
+}
+
+html{
+    background-color:darkslategray;
+}
